@@ -12,6 +12,6 @@
   "hubot-catme",
   "hubot-heroku-keepalive",
   "hubot-fliptable",
-  "hubot-coffee-time"
+  "hubot-coffee-time",
   "hubot-command-analytics"
 ]
